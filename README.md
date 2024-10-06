@@ -40,7 +40,7 @@ Tools and Technologies
 
     Kotlin: The core programming language used in development.
     Jetpack Compose: For building a modern, responsive UI with declarative components.
-    MVVM Architecture: Maintains separation of concerns and manages UI-related data for lifecycle-conscious apps.
+    MVVM Architecture: Maintains separation of concerns.
     Hilt: Dependency injection framework for cleaner code and easier testing.
     Navigation Component: Simplifies app navigation in a single-activity architecture.
     Coroutines and ViewModel: For asynchronous programming and efficient UI data management.
