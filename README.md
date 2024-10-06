@@ -3,7 +3,7 @@ Tweetsy
 Tweetsy is a tweets curator app designed to demonstrate Jetpack Compose basics and the MVVM pattern. Rather than fetching tweets directly from Twitter, Tweetsy pulls data from JSONBin.io, a third-party site for hosting JSON data, simplifying API setup and expanding learning opportunities.
 Features
 
-    Category-Based Curation: Curate tweets based on categories, allowing users to filter and browse relevant content.
+    Category-Based Curation: Curate tweets based on categories.
     Offline-Ready: Uses JSONBin.io to pull data, so there’s no need for a direct Twitter API.
     Smooth User Experience: Built with Jetpack Compose for a modern, responsive UI.
 
